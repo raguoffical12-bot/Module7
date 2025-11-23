@@ -43,8 +43,8 @@ STEP 4: Print the result.
 STEP 5: Stop.
 ### Program:
 ```
-reg no:212223070023
-name:Saran Krishna P S 
+reg no:212223070021
+name:Ragunandhan S 
 def fun(n):
      if (n >0):
           fun(n - 2)
@@ -80,8 +80,8 @@ STEP 5: Print the result.
 STEP 6: Stop.
 ### Program:
 ```
-reg no:212223070023
-name:Saran Krishna P S 
+reg no:212223070021
+name:Ragunandhan S 
 def series(x,n):
          if n==0:
             return 1
@@ -184,8 +184,8 @@ using recursion.
 
 ### Program:
 ```
-reg no:212223070023
-name:Saran Krishna P S
+reg no:212223070021
+name:Ragunandhan S
 def fact(n):
     if n==0:
         return 1
